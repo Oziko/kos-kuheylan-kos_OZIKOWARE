@@ -1,0 +1,13 @@
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\bin\Debug\150203_Win_AtYarisi.exe.config
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\bin\Debug\150203_Win_AtYarisi.exe
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\bin\Debug\150203_Win_AtYarisi.pdb
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\obj\Debug\150203_Win_AtYarisi.csprojResolveAssemblyReference.cache
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\obj\Debug\_150203_Win_AtYarisi.Form1.resources
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\obj\Debug\_150203_Win_AtYarisi.Properties.Resources.resources
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\obj\Debug\150203_Win_AtYarisi.csproj.GenerateResource.Cache
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\obj\Debug\150203_Win_AtYarisi.exe
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\obj\Debug\150203_Win_AtYarisi.pdb
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\bin\Debug\150203_Win_AtYarisi.exe.manifest
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\bin\Debug\150203_Win_AtYarisi.application
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\obj\Debug\150203_Win_AtYarisi.exe.manifest
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150203_Win_AtYarisi\150203_Win_AtYarisi\obj\Debug\150203_Win_AtYarisi.application
